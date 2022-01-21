@@ -8,7 +8,7 @@ CODER | STUDENT | LEARNER<br>
 
 - 🌱 I’m currently learning **C++ | Problem Solving | Datastructures and Algorithms**
 
-- 📫 How to reach me **Prateeksagar2103@gmail.com**
+- 📫 feel free to connect **Prateeksagar2103@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
