@@ -2,11 +2,11 @@
 <h4 align="center";>
 Hi 👋, everyone<br>
 I am Prateek</h4><br>
-CODER | STUDENT | LEARNER<br>
+PROFESSIONAL CODER | LEARNER<br>
 </p>
 
 
-- 🌱 I’m currently learning **C++ | Problem Solving | Datastructures and Algorithms**
+- 🌱 I’m software developer | Problem Solving | Datastructures and Algorithms** | MERN Stack Developer
 
 - 📫 feel free to connect **Prateeksagar2103@gmail.com**
 
