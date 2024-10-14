@@ -6,7 +6,7 @@ PROFESSIONAL CODER | LEARNER<br>
 </p>
 
 
-- 🌱 I’m software developer | Problem Solving | Datastructures and Algorithms** | MERN Stack Developer
+- 🌱 I’m software developer | Problem Solving | Datastructures and Algorithms** | Javascript
 
 - 📫 feel free to connect **Prateeksagar2103@gmail.com**
 
