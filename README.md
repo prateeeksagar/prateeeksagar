@@ -13,13 +13,12 @@
 
 ### 👨🏻‍💻 The Engineering Journey
 
-I am a Delhi-based Full Stack Developer with an MCA from the University of Delhi, passionate about architecting systems from 0-to-1. I specialize in turning complex logic into seamless, high-performance digital experiences. 
+I am a India-based Full Stack Developer with an Computer Science from the University of Delhi, passionate about architecting systems from 0-to-1. I specialize in turning complex logic into seamless, high-performance digital experiences. 
 
 *   🏢 **Currently:** Architecting AI-powered video editing platforms as a Full Stack Developer at **Wishtales AI**.
-*   🛡️ **Previously:** Built robust fraud detection systems and ONDC integrations at **Faircent**.
+*   🛡️ **Previously:** Built robust fraud detection systems, backend APIs and ONDC integrations at **Faircent**.
 *   🎨 **Building:** **ExcileBoard**, a highly optimized vector graphics canvas with infinite, locally persistent boards.
-*   ☁️ **Exploring:** Serverless architectures (Cloudflare Workers) and distributed backend systems.
-*   ⚡ **Superpower:** Decoupling UI operations from rendering loops to guarantee buttery-smooth 60 FPS performance.
+*   ⚡ **Superpower:** Decoupling UI operations from rendering loops to guarantee buttery-smooth 60 FPS performance & Highly scalable and high performance backend systems.
 
 <br>
 
@@ -71,7 +70,6 @@ I am a Delhi-based Full Stack Developer with an MCA from the University of Delhi
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateeeksagar&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Prateek's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateeeksagar&theme=transparent&hide_border=true&title_color=0e75b6&ring=0e75b6&fire=0e75b6" alt="Prateek's GitHub Streak" width="48%" />
 </p>
 
