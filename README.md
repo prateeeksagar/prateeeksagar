@@ -17,7 +17,7 @@ I am a India-based Full Stack Developer with an Computer Science from the Univer
 
 *   🏢 **Currently:** Architecting AI-powered video editing platforms as a Full Stack Developer at **Wishtales AI**.
 *   🛡️ **Previously:** Built robust fraud detection systems, backend APIs and ONDC integrations at **Faircent**.
-*   🎨 **Building:** **ExcileBoard**, a highly optimized vector graphics canvas with infinite, locally persistent boards.
+*   🎨 **Learning:** Advanced Backend Systems
 *   ⚡ **Superpower:** Decoupling UI operations from rendering loops to guarantee buttery-smooth 60 FPS performance & Highly scalable and high performance backend systems.
 
 <br>
@@ -55,15 +55,6 @@ I am a India-based Full Stack Developer with an Computer Science from the Univer
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
-<br>
-
-### 🚀 Featured Engineering Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🎨 **ExcileBoard** | High-performance vector canvas supporting infinite drawing environments, complex undo/redo loops, and zero data-loss local persistence. | `React`, `TypeScript`, `MobX`, `Fabric.js` |
-| ✍️ **Serverless Blog App** | Globally deployed API built with a relational data schema, engineered to keep cold starts minimal and compute efficiency high. | `Hono`, `Prisma`, `PostgreSQL`, `Cloudflare` |
 
 <br>
 
